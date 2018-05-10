@@ -8,6 +8,7 @@ import javax.swing.JFrame;
 public class Main {
 	public static void main(final String[] args) {
 		// Create a new frame (a window)
+                //prueba2 commit
 		JFrame frame = new JFrame();
 
 		GUIView guiView = new GUIView(new GameFactory());
